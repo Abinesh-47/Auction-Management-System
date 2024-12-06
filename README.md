@@ -86,7 +86,3 @@ The Bidder Dashboard displays the available items and allows bidders to place bi
 2. Create a new branch (`feature-name`).
 3. Commit your changes.
 4. Push to your branch and submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
